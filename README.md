@@ -7,7 +7,7 @@
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehtiumityildirim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mehtiumityildirim/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mehtiumityildirim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mehtiumityildirim/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:(i am still keep learning and keep improving myself)</h3>
