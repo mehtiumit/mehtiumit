@@ -5,6 +5,8 @@
 
 - 📫 Contact **mehtiumityildirim@gmail.com**
 
+- 📋 [CV](https://drive.google.com/file/d/1DSf1iSUrdvNHF_gei_bvYe2dYuOoJRB_/view?usp=sharing)
+
 <h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mehtiumityildirim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mehtiumityildirim/" height="30" width="40" /></a>
