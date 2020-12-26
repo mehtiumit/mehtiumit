@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehti Ümit Yıldırım</h1>
+<h1 align="center">Hi 👋, I'm Mehti Ümit</h1>
 <h3 align="center">Junior Full Stack Developer from Turkey</h3>
 
 - 💬 Code **My purpose in using Github: I want to show people my coding knowledge. In this way, I think my skills in my CV are more measurable.**
