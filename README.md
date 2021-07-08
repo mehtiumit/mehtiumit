@@ -5,7 +5,7 @@
 
 - 📫 Contact **mehtiumityildirim@gmail.com**
 
-- 📋 [CV](https://drive.google.com/file/d/1DSf1iSUrdvNHF_gei_bvYe2dYuOoJRB_/view?usp=sharing)
+- 📋 [CV](https://smallpdf.com/tr/result#r=2873888891c61a1a6353daac3b1e4241&t=share-document)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
